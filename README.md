@@ -1,2 +1,5 @@
 # helow-world
-Just another repository
+
+Hi Humans
+
+This is my first repository, I want to leabr coding to improve the planet!
